@@ -1,0 +1,22 @@
+{
+  "name": "vtk-translate",
+  "version": "1.0.0",
+  "description": "Translate api from google",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vu Tuan Kiet",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vutuankiet4599/vtk-translate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vutuankiet4599/vtk-translate/issues"
+  },
+  "homepage": "https://github.com/vutuankiet4599/vtk-translate#readme"
+}
